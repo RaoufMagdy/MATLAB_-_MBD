@@ -1,7 +1,8 @@
 # MATLAB_-_MBD
 /**************************************
 
-These are MATLAB & MBD TASKS
+These are MATLAB & MBD Tasks.
+
 Topics:
 
 - MATLAB GUI
